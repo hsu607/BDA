@@ -17,5 +17,5 @@ Description: 대전, 세종, 충남 지역 교통사고 분석 및 112 신고 �
 Description: 빅데이터를 이용한 강서구 주차문제, 치안문제 해결
 
 
-
+###👋
 Stay tuned for updates on our future projects and competitions! 

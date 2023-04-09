@@ -1,4 +1,4 @@
-# Big Data Analysts Conference Projects
+# 📊 Big Data Analysts Conference Projects
 Welcome to BDA GitHub repository! I'm a member of BDA(Big Data Analysts) who have participated in several competitions about data analysis. 
 Here, you can find information about our projects and access the code we have developed.
 
